@@ -9,7 +9,7 @@ int main()
   std::cout<<"n^m= "<< pow (n, m)<< std::endl;
   do{
     int sum=0;
-    sum=pow(n, 2)+pow(n, m);
+    sum==pow(n, 2)+pow(n, m);
   }while(n==m);
   cout<<"Сумма дорівнює "<< sum << endl;
   return 0;
