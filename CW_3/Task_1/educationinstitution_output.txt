@@ -1,1 +1,12 @@
+1.Lviv Polytechnic National University,Lviv,1816,35000.
+  Ivan Franko National University,Lviv,1661,19357.
+  Danylo Halytsky Lviv National Medical University,Lviv,1784,5150.
+  Sumy National Agrarian University,Sumy,1977,19000.
+  NaUKMA,Kyiv,1615,3200.
 
+
+2.NaUKMA,Kyiv,1615,3200.
+  Ivan Franko National University,Lviv,1661,19357.
+  Lviv Polytechnic National University,Lviv,1816,35000.
+  Sumy National Agrarian University,Sumy,1977,19000.
+  Danylo Halytsky Lviv National Medical University,Lviv,1784,5150.
